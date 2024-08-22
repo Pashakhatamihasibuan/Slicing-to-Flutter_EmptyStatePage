@@ -20,7 +20,7 @@ This project implements two Empty State pages taken from Figma designs and conve
 ## Screenshots
 
 **Boost Profit Page:**
-<img width="322" alt="Boost Profit Page" src="https://github.com/Pashakhatamihasibuan/Design-to-Flutter-SignInPage/blob/main/figma/signInScreenV1.png">
+<img width="322" alt="Boost Profit Page" src="https://github.com/Pashakhatamihasibuan/Slicing-to-Flutter_EmptyStatePage/blob/main/figma/EmptyStateV1.png">
 
 **Success Order Page:**
 <img width="322" alt="Success Order Page" src="https://github.com/Pashakhatamihasibuan/Design-to-Flutter-SignInPage/blob/main/figma/SignInScreenV2.png">
