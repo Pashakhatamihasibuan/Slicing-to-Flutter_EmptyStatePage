@@ -19,10 +19,10 @@ This project implements two Empty State pages taken from Figma designs and conve
 
 ## Screenshots
 
-### Boost Profit Page:**
+### Boost Profit Page:
 <img width="322" alt="Boost Profit Page" src="https://github.com/Pashakhatamihasibuan/Slicing-to-Flutter_EmptyStatePage/blob/main/figma/EmptyStateV2.png">
 
-### Success Order Page:**
+### Success Order Page:
 <img width="322" alt="Success Order Page" src="https://github.com/Pashakhatamihasibuan/Slicing-to-Flutter_EmptyStatePage/blob/main/figma/EmptyStateV1.png">
 
 ## Contributions
