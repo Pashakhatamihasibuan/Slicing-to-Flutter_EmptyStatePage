@@ -28,3 +28,7 @@ This project implements two Empty State pages taken from Figma designs and conve
 ## Contributions
 
 If you'd like to contribute to this project, feel free to submit a pull request or report any issues in the issues tab.
+
+## 🔗 Links
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pashakhatamihsb/)
